@@ -1,5 +1,5 @@
 # Cards-App Nedir?
-Toplum içerisinde çoğunluklukla bilinen , ünlü kişilere ait olan sözleri **Kart** yapısında ekranda gösteren bir uygulamadır. Bu kart yapılarının içerisinde **ünlünün adı** ve **o kişiye ait olan söz** yer almaktadır. Her bir kart yapısının içerisinde **I LIKED** şeklinde bir beğenme butonu vardır ve bu butona tıkladığınız zaman **"Mesaj beğenildi"** şeklinde bir bildirim gelmektedir.
+Toplum içerisinde çoğunluklukla bilinen , ünlü kişilere ait olan sözleri **Kart** yapısında ekranda gösteren bir uygulamadır. Bu kart yapılarının içerisinde **ünlünün adı** ve **o kişiye ait olan söz** yer almaktadır. Her bir kart yapısının içerisinde **"I LIKED"** şeklinde bir beğenme butonu vardır ve bu butona tıkladığınız zaman **"Mesaj beğenildi"** şeklinde bir bildirim gelmektedir.
 
 ### Bu Proje Hakkında Söylemek İstediklerim
 
